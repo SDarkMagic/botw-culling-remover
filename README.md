@@ -1,1 +1,1 @@
-# chAIos-generator
+# BotW-Culling-Remover
